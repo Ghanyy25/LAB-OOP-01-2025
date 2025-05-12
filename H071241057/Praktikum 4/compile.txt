@@ -1,0 +1,3 @@
+javac -d . login_app\Main.java login_app\models\Profile.java login_app\models\User.java login_app\utils\Stringutils.java
+
+java login_app.Main
